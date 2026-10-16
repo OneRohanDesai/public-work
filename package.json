@@ -1,6 +1,7 @@
 {
   "name": "public-work",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
     "deploy:static": "npm run build && wrangler deploy",
