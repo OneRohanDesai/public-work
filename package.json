@@ -1,0 +1,12 @@
+{
+  "name": "public-work",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "deploy:static": "npm run build && wrangler deploy",
+    "check": "npm run build && node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "4.151.0"
+  }
+}
