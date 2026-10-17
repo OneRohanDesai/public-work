@@ -31,9 +31,9 @@ Even the live projects aren’t fully secured by design 😅 I know cloud securi
 
 ### What's here
 
-| Folder | What lives there |
-|--------|------------------|
-| **`projects/`** | Technical side work: code, experiments, finished pieces, and a few still cooking. Some are open to explore; some stay private because they are live. Feel free to use the public ones. |
+The public projects and their files are in [`apps/portfolio/projects/`](apps/portfolio/projects/). The easiest way to explore their code is through the [projects page](https://rohandesai.in/projects), where you can open each project and browse its files.
+
+The projects page also lists work whose code is private and isn't kept in this repository. Some of those websites are open for anyone to view. Others have private code and private websites; if you'd like to see one, [email me](mailto:pro.rohandesai@gmail.com) to ask for access.
 
 ---
 
