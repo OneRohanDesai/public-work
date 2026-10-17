@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg1dGZ3NHF5Y3drN3U5YzlxeW12dm81bGE0a3lyeDZ5dTliYnJrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ORjfgiG9ZtxcQQwZzv/giphy.gif" width="220" alt="disco ball"/>
+  <img src="https://media.giphy.com/media/ORjfgiG9ZtxcQQwZzv/giphy.gif" width="220" alt="disco ball"/>
 </p>
 
 <h1 align="center">Who I am when I am not working</h1>
@@ -14,7 +14,7 @@ I like systems that stay up, tools that feel kind, and ideas that can be visuali
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBzMmc1aDgzZjVvaWR4Y3Z1YTN3MmpldjVmbHZsNmpnZ3FxemlodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xZsLh7B3KMMyUptD9D/giphy.gif" width="280" alt="builder"/>
+  <img src="https://media.giphy.com/media/xZsLh7B3KMMyUptD9D/giphy.gif" width="280" alt="builder"/>
 </p>
 
 ### Side Projects
@@ -42,7 +42,7 @@ The projects page also lists work whose code is private and isn't kept in this r
 Honestly, probably nothing new. Project “Annara” is planned, but it’s postponed indefinitely since it needs more people, money, time, and compute that I cannot manage alone. I still have ideas, but I don’t think I’ll be building new personal projects anymore. I’ll just rarely tweak the existing ones and keep adding data to the live platforms.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVzcTBpajJiN3lzcTdsenpmdXZxa2czMjh5bnVlaTJ5Ym81cmpxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lD76yTC5zxZPG/giphy.gif" width="160" alt="lights"/>
+  <img src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif" width="160" alt="lights"/>
 </p>
 
 ---
