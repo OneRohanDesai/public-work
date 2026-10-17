@@ -38,11 +38,11 @@
       "repo": "https://github.com/OneRohanDesai/private-work/tree/main"
     },
     {
-      "id": "ada-wong",
-      "name": "Ada Wong",
+      "id": "the-planner",
+      "name": "The Planner",
       "status": "private",
-      "tags": ["Local AI", "Python", "Ollama"],
-      "blurb": "Local personal AI companion: memory, voice, timetable. On device only.",
+      "tags": ["Commercial", "Wedding", "Planner"],
+      "blurb": "Professional multi-feature wedding management platform.",
       "link": null,
       "visibility": "private",
       "hidden": false,
@@ -52,15 +52,43 @@
       "repo": "https://github.com/OneRohanDesai/private-work/tree/main"
     },
     {
+      "id": "red-queen",
+      "name": "Red Queen",
+      "status": "private",
+      "tags": ["Live", "Tech", "Infra", "Intelligence"],
+      "blurb": "See everything. Keep it running.",
+      "link": null,
+      "visibility": "private",
+      "hidden": false,
+      "order": 4,
+      "contact": true,
+      "browsable": false,
+      "repo": "https://github.com/OneRohanDesai/private-work/tree/main"
+    },
+    {
+      "id": "ada-wong",
+      "name": "Ada Wong",
+      "status": "private",
+      "tags": ["Local AI", "Python", "Ollama"],
+      "blurb": "Local personal AI companion: memory, voice, timetable. On device only.",
+      "link": null,
+      "visibility": "private",
+      "hidden": false,
+      "order": 5,
+      "contact": true,
+      "browsable": false,
+      "repo": "https://github.com/OneRohanDesai/private-work/tree/main"
+    },
+    {
       "id": "zyra",
       "name": "ZYRA",
-      "status": "live",
+      "status": "postponed",
       "tags": ["Food", "Platform", "Cloudflare"],
       "blurb": "World's largest food database and multi functionality platform.",
       "link": null,
       "visibility": "private",
       "hidden": false,
-      "order": 4,
+      "order": 6,
       "contact": true,
       "browsable": false,
       "repo": "https://github.com/OneRohanDesai/private-work/tree/main"
@@ -74,7 +102,7 @@
       "link": "https://fc.rohandesai.in/",
       "visibility": "private",
       "hidden": false,
-      "order": 5,
+      "order": 7,
       "contact": true,
       "browsable": false,
       "repo": "https://github.com/OneRohanDesai/private-work/tree/main"
@@ -88,7 +116,7 @@
       "link": "https://aesthete.rohandesai.in/",
       "visibility": "private",
       "hidden": false,
-      "order": 6,
+      "order": 8,
       "contact": true,
       "browsable": false,
       "repo": "https://github.com/OneRohanDesai/private-work/tree/main"
@@ -102,7 +130,7 @@
       "link": null,
       "visibility": "private",
       "hidden": false,
-      "order": 7,
+      "order": 9,
       "contact": true,
       "browsable": false,
       "repo": "https://github.com/OneRohanDesai/private-work/tree/main"
